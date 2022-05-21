@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApacheIAMedicClient", "ApacheIAMedicClient\ApacheIAMedicClient.csproj", "{AC84C9F8-6D50-4E11-8C22-1C4EB220639B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApacheIAMedicServer", "ApacheIAMedicServer\ApacheIAMedicServer.csproj", "{6C6C87F9-52F8-4BC3-8303-D3CEF024F2EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC84C9F8-6D50-4E11-8C22-1C4EB220639B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC84C9F8-6D50-4E11-8C22-1C4EB220639B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC84C9F8-6D50-4E11-8C22-1C4EB220639B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC84C9F8-6D50-4E11-8C22-1C4EB220639B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C6C87F9-52F8-4BC3-8303-D3CEF024F2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C6C87F9-52F8-4BC3-8303-D3CEF024F2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C6C87F9-52F8-4BC3-8303-D3CEF024F2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C6C87F9-52F8-4BC3-8303-D3CEF024F2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5C2E993-21F2-4078-BDBF-260D99B32E8D}
+	EndGlobalSection
+EndGlobal
